@@ -21,19 +21,26 @@ Upload a Chest X-ray image to predict whether the patient has **PNEUMONIA** or i
 
 The model is built using **PyTorch** with a **MobileNetV2** backbone.
 """,
+article="""
+<div style="text-align:center; padding-top:8px; line-height:1.3;">
 
-    article="""
-### Project Information
+<p style="font-size:24px; font-weight:bold; margin:0;">
+Developer
+</p>
 
- **Developer:**  Mohit Soni
+<p style="font-size:20px; margin:4px 0;">
+Mohit Soni
+</p>
 
-**Model:**  MobileNetV2
+<p style="font-size:18px; margin:4px 0;">
+Master of Computer Applications (MCA)
+</p>
 
- **Framework:**  PyTorch
+<p style="font-size:18px; margin:4px 0;">
+National Institute of Technology Kurukshetra
+</p>
 
- **Test Accuracy:**  94%
-
- **Dataset:** Kaggle Chest X-ray Pneumonia Dataset
+</div>
 """,
 
     examples=[
