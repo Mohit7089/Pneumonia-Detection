@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Dataset
+chest_xray/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pth
