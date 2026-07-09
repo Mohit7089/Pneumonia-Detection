@@ -19,3 +19,4 @@ chest_xray/
 
 # Model checkpoints
 *.pth
+!models/pneumonia_pt_best.pth
